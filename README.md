@@ -1,6 +1,6 @@
 # Overview
 This repository contains the data and code for our paper:
-Kelmelis, S., and Price, M.H. (2024) Multistate model for paleodemographic analyses of incomplete skeletal date - a Danish application using the demohaz R package. In prep. 
+Kelmelis, S., and Price, M.H. (2024) Multistate model for paleodemographic analyses of incomplete skeletal data - a Danish application using the demohaz R package. In prep. 
 
 # Installation
 You will find information on the installation of the R package demohaz through
