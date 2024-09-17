@@ -1,4 +1,4 @@
-Site code,Grave number,Arm,Final Age,"Sex(0 is male, 1 is female, 2 is nonadult)",Event ,"Age Category (1=perinatal to 1, 2=1-5, 3=6-11, 4=12-15, 5=16-24, 6=25-34, 7=35-44, 8=45-54, 9=55-64, 10=65+)",Dead before 16 age,Dead before 16 (binary),"urban? (0 = rural, 1 = urban)","Tibia prolif. presence (1 = present, 0 = absent)","Cribra presence  (0 = absent, 1 = present)",LEH,Humerus,Radius,Femur,Tibia
+Site code,Grave number,Arm,Final Age,"Sex(0 is male, 1 is female, 2 is nonadult)",Event ,"Age Category (1=perinatal to 1, 2=1-5, 3=6-11, 4=12-15, 5=16-24, 6=25-34, 7=35-44, 8=45-54, 9=55-64, 10=65+)",Dead before 16 age,Dead before 16 (binary),"urban? (0 = rural, 1 = urban)",PNBF,CO,LEH,Humerus,Radius,Femur,Tibia
 FHM 3970,DM,A,59,0,1,9,14.99,0,0,1,1,0,,,,349
 FHM 3970,CC,A,66.8,0,1,10,14.99,0,0,0,1,0,,,432,335
 FHM 3970,BP,A,28,1,1,6,14.99,0,0,1,0,0,325,,451,371
